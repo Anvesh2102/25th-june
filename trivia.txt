@@ -1,0 +1,18 @@
+** start of script.js **
+
+console.log("Hello! I'm your coding fun fact guide!");
+let botName="Manju";
+let botLocation="Karimnagar"
+let favoriteLanguage="JavaScript";
+console.log("My name is "+botName+" and I live on "+botLocation+".");
+console.log("My favorite programming language is "+favoriteLanguage+".");
+let codingFact=favoriteLanguage+" and python";
+console.log(codingFact);
+codingFact=favoriteLanguage+", C programming"+", Python";
+console.log(codingFact);
+codingFact=favoriteLanguage+", C programming"+", Python"+" and Java";
+console.log(codingFact);
+console.log("It was fun sharing these facts with you. Goodbye! - "+botName+" from "+botLocation+".")
+
+** end of script.js **
+
